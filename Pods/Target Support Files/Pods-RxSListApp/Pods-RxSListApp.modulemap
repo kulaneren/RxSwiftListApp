@@ -1,0 +1,6 @@
+framework module Pods_RxSListApp {
+  umbrella header "Pods-RxSListApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
